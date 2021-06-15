@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>by.azzibom.utils.gui.swing</groupId>
+  <groupId>by.azzibom.gui.swing</groupId>
   <artifactId>string-cell-renderer</artifactId>
   <version>1.0</version>
 
@@ -31,7 +31,7 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/azzibom/string-cell-renderer</url>
+      <url>https://maven.pkg.github.com/azzibom/repo</url>
     </repository>
   </distributionManagement>
 </project>
